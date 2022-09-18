@@ -3,7 +3,7 @@
 
 ## What needs to be updated
 ```
-> Prob Offsets
+> Prob Offsets [ Check dumps.host ]
 > Driver [ Detected asf ]
 > Nvdia Overlay
 ```
